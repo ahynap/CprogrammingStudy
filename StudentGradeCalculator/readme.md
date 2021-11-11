@@ -1,2 +1,2 @@
 # Student Grade Calculator
-test string token using C language.
+separate and identify string token using C language.
